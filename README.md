@@ -15,12 +15,24 @@
 推荐系统模型的经典文章。
 * [Item2Vec - Neural Item Embedding for Collaborative Filtering.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Item2Vec%20-%20Neural%20Item%20Embedding%20for%20Collaborative%20Filtering.pdf) <br />
 * [微博推荐策略平台Eros.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/%E5%BE%AE%E5%8D%9A%E6%8E%A8%E8%8D%90%E7%AD%96%E7%95%A5%E5%B9%B3%E5%8F%B0Eros.pdf) <br />
+* [DeepFM- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/DeepFM-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
 * [Deep Neural Networks for YouTube Recommendations.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
 * [Matrix Factorization  Techniques for  Recommender  Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Matrix%20Factorization%20%20Techniques%20for%20%20Recommender%20%20Systems.pdf) <br />
 * [Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
 Google的Wide&Deep经典深度学习推荐模型
 * [基于BPR-MF算法的推荐系统设计.docx](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/%E5%9F%BA%E4%BA%8EBPR-MF%E7%AE%97%E6%B3%95%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.docx) <br />
 
+
+### Industry Application
+* [Quora - Building a Machine Learning Platform at Quora.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Industry%20Application/Quora%20-%20Building%20a%20Machine%20Learning%20Platform%20at%20Quora.pdf) <br />
+* [Pinterest - Personalized content blending In the Pinterest home feed.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Industry%20Application/Pinterest%20-%20Personalized%20content%20blending%20In%20the%20Pinterest%20home%20feed.pdf) <br />
+
+### Recommender System
+* [Recent Advances in Recommender Systems- Matrices, Bandits, and Blenders.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommender%20System/Recent%20Advances%20in%20Recommender%20Systems-%20Matrices%2C%20Bandits%2C%20and%20Blenders.pdf) <br />
+* [The Netflix Recommender System- Algorithms, Business Value, and Innovation.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommender%20System/The%20Netflix%20Recommender%20System-%20Algorithms%2C%20Business%20Value%2C%20and%20Innovation.pdf) <br />
+
+### Reinforcement Learning in Reco
+* [Exploration in Interactive Personalized Music Recommendation- A Reinforcement Learning Approach.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Exploration%20in%20Interactive%20Personalized%20Music%20Recommendation-%20A%20Reinforcement%20Learning%20Approach.pdf) <br />
 
 ### Exploration and Exploitation
 探索和利用问题，推荐系统中非常重要的一个领域。
