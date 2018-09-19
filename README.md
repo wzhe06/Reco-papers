@@ -17,6 +17,7 @@
 ### Recommendation
 推荐系统模型的经典文章。
 * [Item2Vec - Neural Item Embedding for Collaborative Filtering.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Item2Vec%20-%20Neural%20Item%20Embedding%20for%20Collaborative%20Filtering.pdf) <br />
+* [Neural Collaborative Filtering.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Neural%20Collaborative%20Filtering.pdf) <br />
 * [微博推荐策略平台Eros.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/%E5%BE%AE%E5%8D%9A%E6%8E%A8%E8%8D%90%E7%AD%96%E7%95%A5%E5%B9%B3%E5%8F%B0Eros.pdf) <br />
 * [DeepFM- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/DeepFM-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
 * [Deep Neural Networks for YouTube Recommendations.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Recommendation/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
@@ -49,6 +50,7 @@ Google的Wide&Deep经典深度学习推荐模型
 * [Improving offline evaluation of contextual bandit algorithms via bootstrapping techniques.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Improving%20offline%20evaluation%20of%20contextual%20bandit%20algorithms%20via%20bootstrapping%20techniques.pdf) <br />
 * [Offline Evaluation and Optimization  for Interactive Systems.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Offline%C2%A0Evaluation%C2%A0and%C2%A0Optimization%C2%A0%20for%C2%A0Interactive%C2%A0Systems.pdf) <br />
 
+
 ### Exploration and Exploitation
 探索和利用问题，推荐系统中非常重要的一个领域。
 * [An Empirical Evaluation of Thompson Sampling.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf) <br />
@@ -58,6 +60,7 @@ Google的Wide&Deep经典深度学习推荐模型
 * [Customer Acquisition via Display Advertising Using MultiArmed Bandit Experiments.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Customer%20Acquisition%20via%20Display%20Advertising%20Using%20MultiArmed%20Bandit%20Experiments.pdf) <br />
 * [Mastering the game of Go with deep neural networks and tree search.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search.pdf) <br />
 * [Exploring compact reinforcement-learning representations with linear regression.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Exploring%20compact%20reinforcement-learning%20representations%20with%20linear%20regression.pdf) <br />
+* [Thompson Sampling for Contextual Bandits with Linear Payoffs.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Thompson%20Sampling%20for%20Contextual%20Bandits%20with%20Linear%20Payoffs.pdf) <br />
 * [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Unbiased%20Offline%20Evaluation%20of%20Contextual-bandit-based%20News%20Article%20Recommendation%20Algorithms.pdf) <br />
 * [Incentivizting Exploration in Reinforcement Learning with Deep Predictive Models.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Incentivizting%20Exploration%20in%20Reinforcement%20Learning%20with%20Deep%20Predictive%20Models.pdf) <br />
 * [Exploration and Exploitation Problem by Wang Zhe.pdf](https://github.com/wzhe06/Ad-papers/blob/master/Exploration%20and%20Exploitation/Exploration%20and%20Exploitation%20Problem%20by%20Wang%20Zhe.pdf) <br />
