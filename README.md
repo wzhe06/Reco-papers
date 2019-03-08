@@ -14,14 +14,6 @@
 
 ## 目录
 
-### Industry Application
-* [[Netflix]The Netflix Recommender System- Algorithms, Business Value, and Innovation.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Application/%5BNetflix%5DThe%20Netflix%20Recommender%20System-%20Algorithms%2C%20Business%20Value%2C%20and%20Innovation.pdf) <br />
-* [[Airbnb]Applying Deep Learning To Airbnb Search.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Application/%5BAirbnb%5DApplying%20Deep%20Learning%20To%20Airbnb%20Search.pdf) <br />
-* [[Airbnb]Search Ranking and Personalization at Airbnb Slides.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Application/%5BAirbnb%5DSearch%20Ranking%20and%20Personalization%20at%20Airbnb%20Slides.pdf) <br />
-* [[Pinterest]Graph Convolutional Neural Networks for Web-Scale Recommender Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Application/%5BPinterest%5DGraph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems.pdf) <br />
-* [[Quora]Building a Machine Learning Platform at Quora.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Application/%5BQuora%5DBuilding%20a%20Machine%20Learning%20Platform%20at%20Quora.pdf) <br />
-* [[Pinterest]Personalized content blending In the Pinterest home feed.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Application/%5BPinterest%5DPersonalized%20content%20blending%20In%20the%20Pinterest%20home%20feed.pdf) <br />
-
 ### Embedding
 * [[Node2vec]node2vec- Scalable Feature Learning for Networks.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BNode2vec%5Dnode2vec-%20Scalable%20Feature%20Learning%20for%20Networks.pdf) <br />
 * [[Graph Embedding]DeepWalk- Online Learning of Social Representations.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BGraph%20Embedding%5DDeepWalk-%20Online%20Learning%20of%20Social%20Representations.pdf) <br />
@@ -40,21 +32,6 @@
 * [Simultaneous co-clustering and learning to address the cold start problem in recommender systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Cold%20Start/Simultaneous%20co-clustering%20and%20learning%20to%20address%20the%20cold%20start%20problem%20in%20recommender%20systems.pdf) <br />
 
 
-### Recommender System
-* [Item2Vec - Neural Item Embedding for Collaborative Filtering.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Item2Vec%20-%20Neural%20Item%20Embedding%20for%20Collaborative%20Filtering.pdf) <br />
-* [Real-time Personalization using Embeddings for Search Ranking at Airbnb.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb.pdf) <br />
-* [Neural Collaborative Filtering.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Neural%20Collaborative%20Filtering.pdf) <br />
-* [微博推荐策略平台Eros.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/%E5%BE%AE%E5%8D%9A%E6%8E%A8%E8%8D%90%E7%AD%96%E7%95%A5%E5%B9%B3%E5%8F%B0Eros.pdf) <br />
-* [DeepFM- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/DeepFM-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
-* [Deep Neural Networks for YouTube Recommendations.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
-* [Latent Cross- Making Use of Context in Recurrent Recommender Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Latent%20Cross-%20Making%20Use%20of%20Context%20in%20Recurrent%20Recommender%20Systems.pdf) <br />
-* [Matrix Factorization  Techniques for  Recommender  Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Matrix%20Factorization%20%20Techniques%20for%20%20Recommender%20%20Systems.pdf) <br />
-* [Personalized Recommendation on Dynamic Content Using Predictive Bilinear Models.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Personalized%20Recommendation%20on%20Dynamic%20Content%20Using%20Predictive%20Bilinear%20Models.pdf) <br />
-* [Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/Wide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
-Google的Wide&Deep经典深度学习推荐模型
-* [基于BPR-MF算法的推荐系统设计.docx](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System/%E5%9F%BA%E4%BA%8EBPR-MF%E7%AE%97%E6%B3%95%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1.docx) <br />
-
-
 ### Reinforcement Learning in Reco
 * [Exploration in Interactive Personalized Music Recommendation- A Reinforcement Learning Approach.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Exploration%20in%20Interactive%20Personalized%20Music%20Recommendation-%20A%20Reinforcement%20Learning%20Approach.pdf) <br />
 
@@ -69,8 +46,24 @@ Google的Wide&Deep经典深度学习推荐模型
 * [DRN- A Deep Reinforcement Learning Framework for News Recommendation.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/DRN-%20A%20Deep%20Reinforcement%20Learning%20Framework%20for%20News%20Recommendation.pdf) <br />
 
 
+### Industry Recommender System
+* [[Netflix]The Netflix Recommender System- Algorithms, Business Value, and Innovation.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BNetflix%5DThe%20Netflix%20Recommender%20System-%20Algorithms%2C%20Business%20Value%2C%20and%20Innovation.pdf) <br />
+* [[Airbnb]Applying Deep Learning To Airbnb Search.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BAirbnb%5DApplying%20Deep%20Learning%20To%20Airbnb%20Search.pdf) <br />
+* [[Airbnb]Search Ranking and Personalization at Airbnb Slides.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BAirbnb%5DSearch%20Ranking%20and%20Personalization%20at%20Airbnb%20Slides.pdf) <br />
+* [[Pinterest]Graph Convolutional Neural Networks for Web-Scale Recommender Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BPinterest%5DGraph%20Convolutional%20Neural%20Networks%20for%20Web-Scale%20Recommender%20Systems.pdf) <br />
+* [[Youtube]Deep Neural Networks for YouTube Recommendations.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BYoutube%5DDeep%20Neural%20Networks%20for%20YouTube%20Recommendations.pdf) <br />
+* [[Quora]Building a Machine Learning Platform at Quora.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BQuora%5DBuilding%20a%20Machine%20Learning%20Platform%20at%20Quora.pdf) <br />
+* [[Pinterest]Personalized content blending In the Pinterest home feed.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BPinterest%5DPersonalized%20content%20blending%20In%20the%20Pinterest%20home%20feed.pdf) <br />
+
+### Recommender System Research
+* [[Latent Cross]Latent Cross- Making Use of Context in Recurrent Recommender Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System%20Research/%5BLatent%20Cross%5DLatent%20Cross-%20Making%20Use%20of%20Context%20in%20Recurrent%20Recommender%20Systems.pdf) <br />
+* [[MF]Matrix Factorization Techniques for  Recommender  Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System%20Research/%5BMF%5DMatrix%20Factorization%20Techniques%20for%20%20Recommender%20%20Systems.pdf) <br />
+* [[Neural CF]Neural Collaborative Filtering.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System%20Research/%5BNeural%20CF%5DNeural%20Collaborative%20Filtering.pdf) <br />
+* [[Bilinear]Personalized Recommendation on Dynamic Content Using Predictive Bilinear Models.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System%20Research/%5BBilinear%5DPersonalized%20Recommendation%20on%20Dynamic%20Content%20Using%20Predictive%20Bilinear%20Models.pdf) <br />
+* [[Wide&Deep]Wide & Deep Learning for Recommender Systems.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System%20Research/%5BWide%26Deep%5DWide%20%26%20Deep%20Learning%20for%20Recommender%20Systems.pdf) <br />
+* [[DeepFM]DeepFM- A Factorization-Machine based Neural Network for CTR Prediction.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Recommender%20System%20Research/%5BDeepFM%5DDeepFM-%20A%20Factorization-Machine%20based%20Neural%20Network%20for%20CTR%20Prediction.pdf) <br />
+
 ### Exploration and Exploitation
-探索和利用问题，推荐系统中非常重要的一个领域。
 * [An Empirical Evaluation of Thompson Sampling.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/An%20Empirical%20Evaluation%20of%20Thompson%20Sampling.pdf) <br />
 * [Dynamic Online Pricing with Incomplete Information Using Multi-Armed Bandit Experiments.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/Dynamic%20Online%20Pricing%20with%20Incomplete%20Information%20Using%20Multi-Armed%20Bandit%20Experiments.pdf) <br />
 * [Finite-time Analysis of the Multiarmed Bandit Problem.pdf](https://github.com/wzhe06/Reco-papers/blob/master/Exploration%20and%20Exploitation/Finite-time%20Analysis%20of%20the%20Multiarmed%20Bandit%20Problem.pdf) <br />
