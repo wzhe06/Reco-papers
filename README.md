@@ -6,9 +6,9 @@
 * 知乎私信: [王喆的知乎](https://www.zhihu.com/people/wang-zhe-58)
 
 **其他相关资源**
+* [计算广告相关论文和资源列表](https://github.com/wzhe06/Ad-papers) <br />
 * [张伟楠的RTB Papers列表](https://github.com/wnzhang/rtb-papers)<br />
 * [基于Spark MLlib的CTR prediction模型(LR, Random forest, GBDT, NN, PNN)](https://github.com/wzhe06/CTRmodel) <br />
-* [推荐系统相关论文和资源列表](https://github.com/wzhe06/Reco-papers) <br />
 * [Honglei Zhang的推荐系统论文列表](https://github.com/hongleizhang/RSPapers)
 
 
