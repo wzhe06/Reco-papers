@@ -17,10 +17,10 @@
 ### Embedding
 * [[Negative Sampling] Word2vec Explained Negative-Sampling Word-Embedding Method (2014)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BNegative%20Sampling%5D%20Word2vec%20Explained%20Negative-Sampling%20Word-Embedding%20Method%20%282014%29.pdf) <br />
 * [[SDNE] Structural Deep Network Embedding (THU 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BSDNE%5D%20Structural%20Deep%20Network%20Embedding%20%28THU%202016%29.pdf) <br />
+* [[Item2Vec] Item2Vec-Neural Item Embedding for Collaborative Filtering (Microsoft 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BItem2Vec%5D%20Item2Vec-Neural%20Item%20Embedding%20for%20Collaborative%20Filtering%20%28Microsoft%202016%29.pdf) <br />
 * [[Word2Vec] Distributed Representations of Words and Phrases and their Compositionality (Google 2013)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BWord2Vec%5D%20Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality%20%28Google%202013%29.pdf) <br />
 * [[Word2Vec] Word2vec Parameter Learning Explained (UMich 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BWord2Vec%5D%20Word2vec%20Parameter%20Learning%20Explained%20%28UMich%202016%29.pdf) <br />
 * [[Node2vec] Node2vec - Scalable Feature Learning for Networks (Stanford 2016)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BNode2vec%5D%20Node2vec%20-%20Scalable%20Feature%20Learning%20for%20Networks%20%28Stanford%202016%29.pdf) <br />
-* [[Item2Vec] Item2Vec-Neural Item Embedding for Collaborative Filtering [Microsoft 2016]](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BItem2Vec%5D%20Item2Vec-Neural%20Item%20Embedding%20for%20Collaborative%20Filtering%20%5BMicrosoft%202016%5D.pdf) <br />
 * [[Graph Embedding] DeepWalk- Online Learning of Social Representations (SBU 2014)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BGraph%20Embedding%5D%20DeepWalk-%20Online%20Learning%20of%20Social%20Representations%20%28SBU%202014%29.pdf) <br />
 * [[Airbnb Embedding] Real-time Personalization using Embeddings for Search Ranking at Airbnb (Airbnb 2018)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BAirbnb%20Embedding%5D%20Real-time%20Personalization%20using%20Embeddings%20for%20Search%20Ranking%20at%20Airbnb%20%28Airbnb%202018%29.pdf) <br />
 * [[Alibaba Embedding] Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (Alibaba 2018)](https://github.com/wzhe06/Reco-papers/blob/master/Embedding/%5BAlibaba%20Embedding%5D%20Billion-scale%20Commodity%20Embedding%20for%20E-commerce%20Recommendation%20in%20Alibaba%20%28Alibaba%202018%29.pdf) <br />
@@ -34,20 +34,16 @@
 ### Cold Start
 * [Simultaneous co-clustering and learning to address the cold start problem in recommender systems](https://github.com/wzhe06/Reco-papers/blob/master/Cold%20Start/Simultaneous%20co-clustering%20and%20learning%20to%20address%20the%20cold%20start%20problem%20in%20recommender%20systems.pdf) <br />
 
-
 ### Reinforcement Learning in Reco
 * [Exploration in Interactive Personalized Music Recommendation- A Reinforcement Learning Approach](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Exploration%20in%20Interactive%20Personalized%20Music%20Recommendation-%20A%20Reinforcement%20Learning%20Approach.pdf) <br />
-
 * [Improving offline evaluation of contextual bandit algorithms via bootstrapping techniques](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Improving%20offline%20evaluation%20of%20contextual%20bandit%20algorithms%20via%20bootstrapping%20techniques.pdf) <br />
 * [Active Learning in Collaborative Filtering Recommender Systems](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Active%20Learning%20in%20Collaborative%20Filtering%20Recommender%20Systems.pdf) <br />
 * [Offline Evaluation and Optimization  for Interactive Systems](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Offline%C2%A0Evaluation%C2%A0and%C2%A0Optimization%C2%A0%20for%C2%A0Interactive%C2%A0Systems.pdf) <br />
-
 * [Context Dependent Preference Acquisition with Personality-Based Active Learning in Mobile Recommender Systems](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Context%20Dependent%20Preference%20Acquisition%20with%20Personality-Based%20Active%20Learning%20in%20Mobile%20Recommender%20Systems.pdf) <br />
 * [Active Learning in Recommender Systems](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Active%20Learning%20in%20Recommender%20Systems.pdf) <br />
 * [Superhuman AI for heads-up no-limit poker- Libratus beats top professionals](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/Superhuman%20AI%20for%20heads-up%20no-limit%20poker-%20Libratus%20beats%20top%20professionals.pdf) <br />
 * [A survey of active learning in collaborative filtering recommender systems](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/A%20survey%20of%20active%20learning%20in%20collaborative%20filtering%20recommender%20systems.pdf) <br />
 * [DRN- A Deep Reinforcement Learning Framework for News Recommendation](https://github.com/wzhe06/Reco-papers/blob/master/Reinforcement%20Learning%20in%20Reco/DRN-%20A%20Deep%20Reinforcement%20Learning%20Framework%20for%20News%20Recommendation.pdf) <br />
-
 
 ### Industry Recommender System
 * [[Netflix]The Netflix Recommender System- Algorithms, Business Value, and Innovation](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BNetflix%5DThe%20Netflix%20Recommender%20System-%20Algorithms%2C%20Business%20Value%2C%20and%20Innovation.pdf) <br />
